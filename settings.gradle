@@ -1,0 +1,2 @@
+rootProject.name='mvp_basic_exert'
+include ':app'
